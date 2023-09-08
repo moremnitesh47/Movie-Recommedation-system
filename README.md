@@ -11,7 +11,16 @@
  <li>MatplotlibPyplot</li>
 </ul>
 
- 
+
+
+
+
+ # Sysytem screenshots
+![image](https://github.com/moremnitesh47/Movie-Recommedation-system/assets/144453984/5a6a3138-1abd-4565-a777-e74ec1774f7d)
+![image](https://github.com/moremnitesh47/Movie-Recommedation-system/assets/144453984/4a2e43d0-edb9-4438-a924-e6e2b4585c6d)
+
+
+
 
 # Notes
 <ul>
@@ -39,8 +48,4 @@ A movie recommendation system is a complex data science project that involves se
 
 
 
-# Sysytem screenshots
-![image](https://github.com/moremnitesh47/Movie-Recommedation-system/assets/144453984/5a6a3138-1abd-4565-a777-e74ec1774f7d)
-![image](https://github.com/moremnitesh47/Movie-Recommedation-system/assets/144453984/4a2e43d0-edb9-4438-a924-e6e2b4585c6d)
-
-#
+ 
