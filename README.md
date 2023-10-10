@@ -27,6 +27,7 @@
 <li>I used vectorisation for creating vectors of data.</li> 
 <li>Cosine similarity in order to show the similar data points or vectors.</li>
 <li>Also used stemming  for feature engineering.</li>
+<li>Used KNN(K Nearest Neighbour) machine learning Algorithm to classify and to find similar or close vectors or data points.</li>
 <li>I used all above from machine learning library which is in sci-kit learn.</li>
 </ul>
  
